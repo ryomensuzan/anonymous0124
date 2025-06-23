@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Ryomen Suzan -->
 
-<h1 align="center">👋 Hi, I'm Ryomen Suzan</h1>
+<h1 align="center">👋 Hi, I'm Shuzan Kc</h1>
 <p align="center">Aspiring Web Developer | Passionate Learner | Future Full-Stack Engineer</p>
 
 ---
